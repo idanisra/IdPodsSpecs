@@ -28,7 +28,7 @@ s.framework = "UIKit"
 s.dependency 'Firebase'
 
 # 8
-"IdFramework/**/*"
+"*"
 
 # 9
 
